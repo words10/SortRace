@@ -44,7 +44,7 @@ The benchmark includes the following sorting techniques:
    cd SortRace
    ```
 
-2. **Run in terminal:**
+2. **Compile and run:**
    ```bash
    dotnet build --configuration Release
    dotnet run -c Release
